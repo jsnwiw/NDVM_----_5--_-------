@@ -72,7 +72,8 @@ function aboutPage() {
     <section class="timeline panel">
       <h2>개발 일정</h2>
       <div class="timeline-row"><b>11월 9일</b><strong>2차 중간점검</strong><span>UI 구조 및 주요 화면 시연</span></div>
-      <div class="timeline-row"><b>11월 말</b><strong>최종 발표</strong><span>기능 연동 및 사용성 개선</span></div>
+      <div class="timeline-row"><b>11월 20일</b><strong>3차 발표</strong><span>핵심 기능 구현 및 안전동행 오프라인 릴레이 점검</span></div>
+      <div class="timeline-row"><b>11월 24일</b><strong>프로젝트 4차 결과발표</strong><span>최종 산출물 시연 및 프로젝트 성과 발표</span></div>
     </section>
     ${note('※ 실제 공공데이터 출처: 행정안전부 재해연보, 기상청 ASOS 관측망, 산림청 산사태정보, 공공데이터포털(data.go.kr, odcloud.kr).')}
   </div>`;
